@@ -1,0 +1,13 @@
+# redfin-user 11 RQ3A.210705.001 7380771 release-keys
+- manufacturer: 
+- platform: 
+- codename: merlin
+- flavor: octavi_merlin-userdebug
+- release: 11
+- id: RQ3A.210705.001
+- incremental: 7f38c7cbda
+- tags: release-keys
+- fingerprint: google/redfin/redfin:11/RQ3A.210705.001/7380771:user/release-keys
+- brand: Redmi
+- branch: redfin-user-11-RQ3A.210705.001-7380771-release-keys
+- repo: redmi_merlin_dump
