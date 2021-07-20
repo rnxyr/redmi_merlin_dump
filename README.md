@@ -1,0 +1,13 @@
+# aosp_merlin-userdebug 11 RQ3A.210705.001 1626186325 test-keys
+- manufacturer: 
+- platform: mt6768
+- codename: merlin
+- flavor: aosp_merlin-userdebug
+- release: 11
+- id: RQ3A.210705.001
+- incremental: 1626186325
+- tags: test-keys
+- fingerprint: Redmi/merlin/merlin:11/RQ3A.210705.001/1425:userdebug/test-keys
+- brand: Redmi
+- branch: aosp_merlin-userdebug-11-RQ3A.210705.001-1626186325-test-keys
+- repo: redmi_merlin_dump
